@@ -4,7 +4,7 @@
 대충 이런 것들입니다.<br>
 
 ### 카카오톡 사진 백업
-[![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)]((https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup))
+[![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
 ### 키위 카카오톡 미리보기
 [![키위 카카오톡 미리보기](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
 ### 카메라 잠금
