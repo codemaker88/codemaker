@@ -10,7 +10,7 @@ version: 2
 # Personal info
 name: codemaker
 title: 반갑습니다. 코드메이커 입니다.
-# email: Your email (optional)
+email: codemaker.kiwi@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -94,8 +94,8 @@ content:
           <br><br>
           
 # Footer
-footer_show_references: true
-references_title: I'm CODEMAKER
+footer_show_references: false
+# references_title: References on request (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
