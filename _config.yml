@@ -67,10 +67,11 @@ content:
         link: https://play.google.com/store/apps/dev?id=9210559404958005416
         link_text: Google Play
         description: | # this will include new lines to allow paragraphs
+          <center>
+          카카오톡 사진 백업
+          (KakaoTalk Photo Backup)
+          [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
           <br>
-          <center>### 카카오톡 사진 백업</center><br>
-          <center>(KakaoTalk Photo Backup)</center><br>
-          <center>[![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)</center><br>
           카카오톡 미리보기<br>
           (KakaoTalk Preview)<br>
           [![키위 카카오톡 미리보기](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
@@ -93,6 +94,7 @@ content:
           화장실!!!<br>
           [![화장실](https://lh3.googleusercontent.com/LJLTNEy71TBPgNUW817ROe2Px8BR0klnyPFsUM-KeEGFehX1zZ8CpUztybQoiUrlQhY=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.toilet)
           <br>
+          </center>
           
 # Footer
 footer_show_references: true
