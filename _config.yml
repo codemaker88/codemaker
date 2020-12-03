@@ -18,7 +18,7 @@ title: 반갑습니다. 코드메이커 입니다.
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -92,12 +92,10 @@ content:
           화장실!!!<br>
           [![화장실](https://lh3.googleusercontent.com/LJLTNEy71TBPgNUW817ROe2Px8BR0klnyPFsUM-KeEGFehX1zZ8CpUztybQoiUrlQhY=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.toilet)
           <br><br>
-          <p align="center">
-          <img src="https://lh3.googleusercontent.com/LJLTNEy71TBPgNUW817ROe2Px8BR0klnyPFsUM-KeEGFehX1zZ8CpUztybQoiUrlQhY=s180-rw" alt="test"/>
-          </p>
+          
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: I'm CODEMAKER
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
