@@ -62,20 +62,21 @@ content:
     content:
       - layout: left
         title: 카카오톡 사진 백업
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup
+        link_text: [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
         additional_links:
           - title: 카카오톡 사진 백업
             icon: https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw
             url: https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup
         description: | # this will include new lines to allow paragraphs
-          카카오톡으로 주고받았던 사진과 동영상들을 한 번에 백업하고 싶으시다고요?
-          그렇다면 "카카오톡 사진 백업"을 사용해보세요.
-          오래전 대화방에서 주고받았던 추억의 사진들을 확인하고 백업할 수 있어요!!
+          [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
+          카카오톡으로 주고받았던 사진과 동영상들을 한 번에 백업하고 싶으시다고요?<br>
+          그렇다면 "카카오톡 사진 백업"을 사용해보세요.<br>
+          오래전 대화방에서 주고받았던 추억의 사진들을 확인하고 백업할 수 있어요!!<br>
           (*기기에 저장되어 있는 사진들만 가능합니다.)
           
 # Footer
-# footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
