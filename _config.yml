@@ -69,7 +69,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           카카오톡 사진 백업<br>(KakaoTalk Photo Backup)<br>
           <p align="center">
-            <a href="https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup">
             <img src="https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw">
             </a>
           </p>
