@@ -2,7 +2,7 @@ remote_theme : sproogen/modern-resume-theme
 
 # Site
 repository: codemaker88/codemaker
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: res/iconfinder_social-media_GitHub_1872635.svg #(eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
@@ -70,14 +70,14 @@ content:
           카카오톡 사진 백업<br>(KakaoTalk Photo Backup)<br>
           [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
           <br><br>
-          # 카카오톡 미리보기<br>
+          카카오톡 미리보기<br>
           (KakaoTalk Preview)<br>
           [![키위 카카오톡 미리보기](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
           <br><br>
-          ## 카메라 잠금<br>(Camera Locker)<br>
+          카메라 잠금<br>(Camera Locker)<br>
           [![카메라 잠금](https://lh3.googleusercontent.com/UUI_JS5KjTNpKSaN-3fvax1Fi6JMh-glPqHR2Cde7biMD_PjW7pP_BfUyvmQ2PpNNA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.cameralocker)
           <br><br>
-          ### 사진 잠금<br>
+          사진 잠금<br>
           (Photo Locker)<br>
           [![사진 잠금](https://lh3.googleusercontent.com/8u0toJTP9lismvUc6NXLcvuWoJN2qyYT184kfceNnRx9VygUNQRvFAd4uR-oE9gblA0=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.photolocker)
           <br><br>
