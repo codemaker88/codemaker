@@ -1,7 +1,6 @@
 # Hello.<br>I'm CODEMAKER.
 [![profile](./res/iconfinder_social-media_GitHub_1872635.svg)](./)
 ## It's not pretty,<br>but I'm building an app that someone needs.
-Roughly like this.<br>
 
 ### KakaoTalk Photo Backup
 [![KakaoTalk Photo Backup](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
