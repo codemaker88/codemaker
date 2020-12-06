@@ -4,8 +4,8 @@
 
 ### 카카오톡 사진 백업
 [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
-### 키위 카카오톡 미리보기
-[![키위 카카오톡 미리보기](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
+### 카카오톡 미리보기
+[![카카오톡 미리보기](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
 ### 카메라 잠금
 [![카메라 잠금](https://lh3.googleusercontent.com/UUI_JS5KjTNpKSaN-3fvax1Fi6JMh-glPqHR2Cde7biMD_PjW7pP_BfUyvmQ2PpNNA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.cameralocker)
 ### 사진 잠금
