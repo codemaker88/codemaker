@@ -1,5 +1,5 @@
 # 반갑습니다.<br>코드메이커 입니다.
-[![profile](./res/iconfinder_social-media_GitHub_1872635.svg)](./)
+[![profile](../res/iconfinder_social-media_GitHub_1872635.svg)](./)
 ## 이쁘지는 않지만,<br>누군가에게는 필요한 앱을 만들고 있습니다.
 
 ### 카카오톡 사진 백업
