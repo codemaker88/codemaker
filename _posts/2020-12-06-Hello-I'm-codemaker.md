@@ -1,6 +1,6 @@
 # 반갑습니다.<br>코드메이커 입니다.
 [![profile](../res/iconfinder_social-media_GitHub_1872635.svg)](./)
-## 이쁘지는 않지만,<br>누군가에게는 필요한 앱을 만들고 있습니다.
+## 이쁘지는 않지만, 누군가에게는 필요한 앱을 만들고 있습니다.<br>It's not pretty, but I'm building an app that someone needs.
 
 ### 카카오톡 사진 백업<br>KakaoTalk Photo Backup
 [![카카오톡 사진 백업](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
