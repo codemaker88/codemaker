@@ -4,7 +4,7 @@
 
 ### KakaoTalk Photo Backup
 [![KakaoTalk Photo Backup](https://lh3.googleusercontent.com/4qUW7EbEI9TjScVnHmPef5emT5q05aiiZJc2RRnzMh9XZJPo5up-n_cMH6EvfqImsw=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaophotobackup)
-### Kiwi KakaoTalk Preview
+### KakaoTalk Preview
 [![Kiwi KakaoTalk Preview](https://lh3.googleusercontent.com/GXhvMWFiNw8ZLp7tSaf65fGgzDUnMmWLf22wrVqw5PcxVgbCNsMzT3F1BcpAXjEGrA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.kakaopreview)
 ### Camera Locker
 [![Camera Locker](https://lh3.googleusercontent.com/UUI_JS5KjTNpKSaN-3fvax1Fi6JMh-glPqHR2Cde7biMD_PjW7pP_BfUyvmQ2PpNNA=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.cameralocker)
