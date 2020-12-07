@@ -17,6 +17,9 @@
 ### 앱 잠금<br>App Locker
 [![앱 잠금](https://play-lh.googleusercontent.com/GS10Mb0fGsWawUNewUqEpFyeW0pWQePCCeSUFe96-DY2S4k1Zlan8OeZ3XoVmwBTVHwp=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.applocker)
 
+### 자(Ruler)<br>Scrollable Ruler
+[![자](https://play-lh.googleusercontent.com/ysg0eoexbqqwGZdqfJ2awvDxW_Vo6mB1PhyHsi2yEXZF_BC-dBQrECExoeWCyewahQ=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.ruler)
+
 ### 엔빵도우미<br>RateDutchPay
 [![엔빵도우미](https://lh3.googleusercontent.com/VjTNf8VYMXhCdxbyf6NN-x57H1oCjIhSqLSDt6GJ8UrPLqUkI8IoYzHZwI4fRLR5NQ=s180-rw)](https://play.google.com/store/apps/details?id=com.codemaker.ratedutchpay)
 
